@@ -28,7 +28,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-      <Image source={require("./src/img/calc.png")} style={styles.imagem} />
+      <Image source={require("./img/calc.png")} style={styles.imagem} />
 
       
       <Text style={styles.textoIndi}>Nome do Produto:</Text>
