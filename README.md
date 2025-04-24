@@ -3,15 +3,6 @@
 </div>
 
 ## ➤ Para Executar o Projeto
-1. Abra o terminal do visual studio code <br/>
-2. Navegue até o diretório <br/>
-```
-npm run android
-```
-<br/>
-
-3. Coloque a URL no EXPO GO<br/>
-```
-exp://XXX.XXX.XX.XX:XXXX
-```
-<br/>
+1. Clone o repositório
+2. Instale as dependências `npm install`
+3. Execute `npx expo start` ou `npm run android` - para testar no emulador
